@@ -1,2 +1,3 @@
 # ---+ Extensions
-# ---++ EmptyContribPlugin
+# ---++ EmptyContrib
+1;
